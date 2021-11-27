@@ -2,7 +2,6 @@ name: dev
 channels: 
   - conda-forge
 dependencies:
-  - toytree=2.0.4
+  - toytree
   - ipcoal
-  - numpy
   - msprime=0.7.4
