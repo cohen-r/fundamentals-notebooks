@@ -5,3 +5,4 @@ dependencies:
   - toytree
   - ipcoal
   - numpy
+  - msprime=0.7.4
